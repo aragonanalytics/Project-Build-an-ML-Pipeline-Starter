@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/f60bbc2b644043a3924a038b6e44c03a/artifacts
+end_time: 1730084326688
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f60bbc2b644043a3924a038b6e44c03a
+run_name: victorious-frog-523
+run_uuid: f60bbc2b644043a3924a038b6e44c03a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730084276749
+status: 3
+tags: []
+user_id: amyhill

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/e3d228d426744542a7c5b8bf4160c67f/artifacts
+end_time: 1730083910660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3d228d426744542a7c5b8bf4160c67f
+run_name: placid-perch-285
+run_uuid: e3d228d426744542a7c5b8bf4160c67f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730083812199
+status: 4
+tags: []
+user_id: amyhill

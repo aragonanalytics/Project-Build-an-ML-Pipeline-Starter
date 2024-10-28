@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/b70f348f73454c7e9f88f33723d09ee2/artifacts
+end_time: 1730084326844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b70f348f73454c7e9f88f33723d09ee2
+run_name: traveling-flea-966
+run_uuid: b70f348f73454c7e9f88f33723d09ee2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730084269070
+status: 3
+tags: []
+user_id: amyhill

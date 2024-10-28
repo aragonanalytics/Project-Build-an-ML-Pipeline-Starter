@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/cb98dafcb9984fb5864fd06f299598d4/artifacts
+end_time: 1730083042563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb98dafcb9984fb5864fd06f299598d4
+run_name: luminous-stoat-501
+run_uuid: cb98dafcb9984fb5864fd06f299598d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730082393355
+status: 3
+tags: []
+user_id: amyhill

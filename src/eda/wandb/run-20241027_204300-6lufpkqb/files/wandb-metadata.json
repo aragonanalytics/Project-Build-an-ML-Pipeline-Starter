@@ -1,0 +1,44 @@
+{
+    "os": "macOS-14.4.1-x86_64-i386-64bit",
+    "python": "3.10.15",
+    "heartbeatAt": "2024-10-28T02:43:01.317199",
+    "startedAt": "2024-10-28T02:43:00.757244",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "src/eda/eda.ipynb",
+    "codePathLocal": null,
+    "root": "/Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1",
+    "git": {
+        "remote": "https://github.com/aragonanalytics/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "faea0748aa36b505e316a79b55d1f1af1ab605e1"
+    },
+    "email": "aarag33@wgu.edu",
+    "host": "iMac.local",
+    "username": "amyhill",
+    "executable": "/Users/amyaragon/opt/anaconda3/envs/nyc_airbnb_dev/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2400,
+        "min": 2400,
+        "max": 2400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400,
+            "min": 2400,
+            "max": 2400
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 926.3517189025879,
+            "used": 598.773853302002
+        }
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
