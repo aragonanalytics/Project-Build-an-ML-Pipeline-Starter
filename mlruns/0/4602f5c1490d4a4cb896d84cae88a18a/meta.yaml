@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/4602f5c1490d4a4cb896d84cae88a18a/artifacts
+end_time: 1730732184375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4602f5c1490d4a4cb896d84cae88a18a
+run_name: colorful-wolf-506
+run_uuid: 4602f5c1490d4a4cb896d84cae88a18a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730732181776
+status: 4
+tags: []
+user_id: amyhill

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/2b1d61dcba3f4e9d94e19dc58b7f6376/artifacts
+end_time: 1730732694125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b1d61dcba3f4e9d94e19dc58b7f6376
+run_name: funny-ox-482
+run_uuid: 2b1d61dcba3f4e9d94e19dc58b7f6376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730732384265
+status: 3
+tags: []
+user_id: amyhill
