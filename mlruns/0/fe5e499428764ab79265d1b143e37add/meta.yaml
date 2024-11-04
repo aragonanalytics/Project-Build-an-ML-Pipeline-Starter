@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/fe5e499428764ab79265d1b143e37add/artifacts
+end_time: 1730085358949
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe5e499428764ab79265d1b143e37add
+run_name: enchanting-tern-75
+run_uuid: fe5e499428764ab79265d1b143e37add
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730084906434
+status: 4
+tags: []
+user_id: amyhill

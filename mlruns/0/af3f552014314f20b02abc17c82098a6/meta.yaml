@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/af3f552014314f20b02abc17c82098a6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af3f552014314f20b02abc17c82098a6
+run_name: bemused-foal-939
+run_uuid: af3f552014314f20b02abc17c82098a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730730151198
+status: 1
+tags: []
+user_id: amyhill

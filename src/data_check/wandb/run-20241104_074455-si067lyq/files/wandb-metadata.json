@@ -1,0 +1,57 @@
+{
+    "os": "macOS-14.4.1-x86_64-i386-64bit",
+    "python": "3.10.0",
+    "heartbeatAt": "2024-11-04T14:44:56.499980",
+    "startedAt": "2024-11-04T14:44:55.679981",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        ".",
+        "-vv",
+        "--csv",
+        "clean_sample.csv:latest",
+        "--ref",
+        "clean_sample.csv:reference",
+        "--kl_threshold",
+        "0.2",
+        "--min_price",
+        "10",
+        "--max_price",
+        "350"
+    ],
+    "state": "running",
+    "program": "/Users/amyaragon/opt/anaconda3/envs/mlflow-7780f4088cafded9597a00a44f13a456ae8f9a7e/bin/pytest",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/aragonanalytics/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "1ab3b65145da73164d3cd9a444915fa8722daea4"
+    },
+    "email": "aarag33@wgu.edu",
+    "root": "/Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1",
+    "host": "iMac.local",
+    "username": "amyhill",
+    "executable": "/Users/amyaragon/opt/anaconda3/envs/mlflow-7780f4088cafded9597a00a44f13a456ae8f9a7e/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2400,
+        "min": 2400,
+        "max": 2400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400,
+            "min": 2400,
+            "max": 2400
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 926.3517189025879,
+            "used": 19.081520080566406
+        }
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

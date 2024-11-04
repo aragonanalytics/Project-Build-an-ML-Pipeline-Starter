@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/d1d9428616ca48ed8e00f6dc60e19c9c/artifacts
+end_time: 1730730602717
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1d9428616ca48ed8e00f6dc60e19c9c
+run_name: resilient-pug-572
+run_uuid: d1d9428616ca48ed8e00f6dc60e19c9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730730124482
+status: 4
+tags: []
+user_id: amyhill
