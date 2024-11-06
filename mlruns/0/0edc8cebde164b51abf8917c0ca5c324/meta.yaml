@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/0edc8cebde164b51abf8917c0ca5c324/artifacts
+end_time: 1730735489889
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0edc8cebde164b51abf8917c0ca5c324
+run_name: respected-whale-879
+run_uuid: 0edc8cebde164b51abf8917c0ca5c324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730735462751
+status: 4
+tags: []
+user_id: amyhill

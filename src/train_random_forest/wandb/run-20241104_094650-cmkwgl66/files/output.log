@@ -1,0 +1,11 @@
+2024-11-04 09:46:53,179 Minimum price: 10, Maximum price: 350
+Traceback (most recent call last):
+  File "/Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/src/train_random_forest/run.py", line 290, in <module>
+    go(args)
+  File "/Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/src/train_random_forest/run.py", line 64, in go
+    X_train, X_val, y_train, y_val = train_test_split(
+  File "/Users/amyaragon/opt/anaconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/sklearn/model_selection/_split.py", line 2175, in train_test_split
+    n_train, n_test = _validate_shuffle_split(n_samples, test_size, train_size,
+  File "/Users/amyaragon/opt/anaconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/sklearn/model_selection/_split.py", line 1824, in _validate_shuffle_split
+    raise ValueError("Invalid value for test_size: {}".format(test_size))
+ValueError: Invalid value for test_size: 0.2

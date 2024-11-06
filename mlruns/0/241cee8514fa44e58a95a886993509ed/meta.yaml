@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/241cee8514fa44e58a95a886993509ed/artifacts
+end_time: 1730734637933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 241cee8514fa44e58a95a886993509ed
+run_name: popular-donkey-730
+run_uuid: 241cee8514fa44e58a95a886993509ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730734388786
+status: 4
+tags: []
+user_id: amyhill

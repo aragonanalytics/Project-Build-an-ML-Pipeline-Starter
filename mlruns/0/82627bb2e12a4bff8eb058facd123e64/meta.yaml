@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/82627bb2e12a4bff8eb058facd123e64/artifacts
+end_time: 1730851077777
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82627bb2e12a4bff8eb058facd123e64
+run_name: sassy-skunk-532
+run_uuid: 82627bb2e12a4bff8eb058facd123e64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730850997171
+status: 3
+tags: []
+user_id: amyhill

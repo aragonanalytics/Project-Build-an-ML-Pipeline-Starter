@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/f7c7d9275b244d808325c84aa3c1f45b/artifacts
+end_time: 1730739149130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7c7d9275b244d808325c84aa3c1f45b
+run_name: glamorous-pug-29
+run_uuid: f7c7d9275b244d808325c84aa3c1f45b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730739072354
+status: 4
+tags: []
+user_id: amyhill

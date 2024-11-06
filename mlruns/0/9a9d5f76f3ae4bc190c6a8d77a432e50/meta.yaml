@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/9a9d5f76f3ae4bc190c6a8d77a432e50/artifacts
+end_time: 1730737655455
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a9d5f76f3ae4bc190c6a8d77a432e50
+run_name: gaudy-cow-373
+run_uuid: 9a9d5f76f3ae4bc190c6a8d77a432e50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730737639617
+status: 4
+tags: []
+user_id: amyhill

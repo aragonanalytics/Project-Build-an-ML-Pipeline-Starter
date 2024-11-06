@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/1688dde193e34e1f9ac3e32d8e93393f/artifacts
+end_time: 1730739196222
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1688dde193e34e1f9ac3e32d8e93393f
+run_name: honorable-bird-362
+run_uuid: 1688dde193e34e1f9ac3e32d8e93393f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730739149282
+status: 4
+tags: []
+user_id: amyhill

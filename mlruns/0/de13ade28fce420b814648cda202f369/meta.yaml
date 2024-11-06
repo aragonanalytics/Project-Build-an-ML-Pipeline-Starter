@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/de13ade28fce420b814648cda202f369/artifacts
+end_time: 1730846365070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de13ade28fce420b814648cda202f369
+run_name: casual-ox-634
+run_uuid: de13ade28fce420b814648cda202f369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730846057282
+status: 4
+tags: []
+user_id: amyhill

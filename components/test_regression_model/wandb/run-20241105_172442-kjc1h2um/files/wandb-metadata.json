@@ -1,0 +1,50 @@
+{
+    "os": "macOS-14.4.1-x86_64-i386-64bit",
+    "python": "3.9.20",
+    "heartbeatAt": "2024-11-06T00:24:43.097519",
+    "startedAt": "2024-11-06T00:24:42.600563",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--mlflow_model",
+        "random_forest_export:prod",
+        "--test_dataset",
+        "test_data.csv:latest"
+    ],
+    "state": "running",
+    "program": "/Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/components/test_regression_model/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "components/test_regression_model/run.py",
+    "git": {
+        "remote": "https://github.com/aragonanalytics/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "d7df6ecfcfa683d6bedeca8ab151ec49c925ad0f"
+    },
+    "email": "aarag33@wgu.edu",
+    "root": "/Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1",
+    "host": "iMac.local",
+    "username": "amyhill",
+    "executable": "/Users/amyaragon/opt/anaconda3/envs/mlflow-d73201f50ef047b8de6c1d81c6cb1bfbb8f652f5/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2400,
+        "min": 2400,
+        "max": 2400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400,
+            "min": 2400,
+            "max": 2400
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 926.3517189025879,
+            "used": 12.594318389892578
+        }
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/dbb78321e1bf4e9095af6e724fcca559/artifacts
+end_time: 1730735489617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbb78321e1bf4e9095af6e724fcca559
+run_name: thundering-moth-928
+run_uuid: dbb78321e1bf4e9095af6e724fcca559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730735484912
+status: 4
+tags: []
+user_id: amyhill

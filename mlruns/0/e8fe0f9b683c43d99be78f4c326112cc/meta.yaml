@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/e8fe0f9b683c43d99be78f4c326112cc/artifacts
+end_time: 1730734559066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8fe0f9b683c43d99be78f4c326112cc
+run_name: righteous-jay-151
+run_uuid: e8fe0f9b683c43d99be78f4c326112cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730734512863
+status: 4
+tags: []
+user_id: amyhill

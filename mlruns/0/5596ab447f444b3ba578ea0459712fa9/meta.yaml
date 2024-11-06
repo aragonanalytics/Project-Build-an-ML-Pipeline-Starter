@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/5596ab447f444b3ba578ea0459712fa9/artifacts
+end_time: 1730735484763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5596ab447f444b3ba578ea0459712fa9
+run_name: aged-smelt-874
+run_uuid: 5596ab447f444b3ba578ea0459712fa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730735480101
+status: 4
+tags: []
+user_id: amyhill

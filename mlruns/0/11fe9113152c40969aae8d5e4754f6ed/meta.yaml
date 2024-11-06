@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/11fe9113152c40969aae8d5e4754f6ed/artifacts
+end_time: 1730846364712
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11fe9113152c40969aae8d5e4754f6ed
+run_name: luxuriant-gnu-502
+run_uuid: 11fe9113152c40969aae8d5e4754f6ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730846279631
+status: 4
+tags: []
+user_id: amyhill

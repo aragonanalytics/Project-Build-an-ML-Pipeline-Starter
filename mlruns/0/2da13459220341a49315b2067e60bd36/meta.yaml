@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/2da13459220341a49315b2067e60bd36/artifacts
+end_time: 1730733960532
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2da13459220341a49315b2067e60bd36
+run_name: rumbling-stork-637
+run_uuid: 2da13459220341a49315b2067e60bd36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730733957329
+status: 4
+tags: []
+user_id: amyhill

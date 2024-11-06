@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/391cc2349535400fa50eb73309a01fbf/artifacts
+end_time: 1730734438533
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 391cc2349535400fa50eb73309a01fbf
+run_name: marvelous-fox-272
+run_uuid: 391cc2349535400fa50eb73309a01fbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730734393955
+status: 4
+tags: []
+user_id: amyhill

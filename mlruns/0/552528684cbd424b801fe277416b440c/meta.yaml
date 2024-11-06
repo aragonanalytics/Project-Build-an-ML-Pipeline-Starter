@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/552528684cbd424b801fe277416b440c/artifacts
+end_time: 1730736468923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 552528684cbd424b801fe277416b440c
+run_name: adorable-turtle-593
+run_uuid: 552528684cbd424b801fe277416b440c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730736392153
+status: 4
+tags: []
+user_id: amyhill

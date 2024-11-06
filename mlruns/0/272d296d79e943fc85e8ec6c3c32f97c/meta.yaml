@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/272d296d79e943fc85e8ec6c3c32f97c/artifacts
+end_time: 1730736952192
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 272d296d79e943fc85e8ec6c3c32f97c
+run_name: carefree-snail-142
+run_uuid: 272d296d79e943fc85e8ec6c3c32f97c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730736713346
+status: 4
+tags: []
+user_id: amyhill

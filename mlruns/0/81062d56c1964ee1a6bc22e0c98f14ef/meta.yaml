@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/81062d56c1964ee1a6bc22e0c98f14ef/artifacts
+end_time: 1730735475047
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81062d56c1964ee1a6bc22e0c98f14ef
+run_name: monumental-foal-514
+run_uuid: 81062d56c1964ee1a6bc22e0c98f14ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730735468625
+status: 4
+tags: []
+user_id: amyhill

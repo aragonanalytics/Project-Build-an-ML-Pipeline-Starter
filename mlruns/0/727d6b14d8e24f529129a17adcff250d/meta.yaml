@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/727d6b14d8e24f529129a17adcff250d/artifacts
+end_time: 1730736469188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 727d6b14d8e24f529129a17adcff250d
+run_name: indecisive-perch-298
+run_uuid: 727d6b14d8e24f529129a17adcff250d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730736225479
+status: 4
+tags: []
+user_id: amyhill

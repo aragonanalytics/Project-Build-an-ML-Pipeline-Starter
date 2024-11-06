@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/601d5183163f4bf2a4ea899d7bab0556/artifacts
+end_time: 1730736876133
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 601d5183163f4bf2a4ea899d7bab0556
+run_name: orderly-snake-809
+run_uuid: 601d5183163f4bf2a4ea899d7bab0556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730736832533
+status: 4
+tags: []
+user_id: amyhill

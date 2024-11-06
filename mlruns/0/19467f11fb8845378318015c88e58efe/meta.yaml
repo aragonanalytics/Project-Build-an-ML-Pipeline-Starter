@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/19467f11fb8845378318015c88e58efe/artifacts
+end_time: 1730846234315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19467f11fb8845378318015c88e58efe
+run_name: clumsy-conch-776
+run_uuid: 19467f11fb8845378318015c88e58efe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730846160489
+status: 4
+tags: []
+user_id: amyhill

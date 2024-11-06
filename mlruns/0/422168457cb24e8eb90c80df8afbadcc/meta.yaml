@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/422168457cb24e8eb90c80df8afbadcc/artifacts
+end_time: 1730737520291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 422168457cb24e8eb90c80df8afbadcc
+run_name: gaudy-conch-77
+run_uuid: 422168457cb24e8eb90c80df8afbadcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730737515211
+status: 3
+tags: []
+user_id: amyhill

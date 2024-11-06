@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/3f48e65fde9347b49810aa75366c0584/artifacts
+end_time: 1730734272699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f48e65fde9347b49810aa75366c0584
+run_name: puzzled-swan-632
+run_uuid: 3f48e65fde9347b49810aa75366c0584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730734257692
+status: 4
+tags: []
+user_id: amyhill

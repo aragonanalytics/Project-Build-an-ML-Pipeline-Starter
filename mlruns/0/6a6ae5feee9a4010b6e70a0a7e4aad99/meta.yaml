@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/6a6ae5feee9a4010b6e70a0a7e4aad99/artifacts
+end_time: 1730846638354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a6ae5feee9a4010b6e70a0a7e4aad99
+run_name: charming-moth-981
+run_uuid: 6a6ae5feee9a4010b6e70a0a7e4aad99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730846552161
+status: 4
+tags: []
+user_id: amyhill

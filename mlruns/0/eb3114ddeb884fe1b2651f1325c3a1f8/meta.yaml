@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/eb3114ddeb884fe1b2651f1325c3a1f8/artifacts
+end_time: 1730739277530
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb3114ddeb884fe1b2651f1325c3a1f8
+run_name: efficient-moose-120
+run_uuid: eb3114ddeb884fe1b2651f1325c3a1f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730739196376
+status: 4
+tags: []
+user_id: amyhill

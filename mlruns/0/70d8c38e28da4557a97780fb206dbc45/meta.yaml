@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/70d8c38e28da4557a97780fb206dbc45/artifacts
+end_time: 1730739917897
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70d8c38e28da4557a97780fb206dbc45
+run_name: secretive-kite-109
+run_uuid: 70d8c38e28da4557a97780fb206dbc45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730739844002
+status: 4
+tags: []
+user_id: amyhill

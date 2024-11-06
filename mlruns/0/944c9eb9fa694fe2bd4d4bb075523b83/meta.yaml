@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/944c9eb9fa694fe2bd4d4bb075523b83/artifacts
+end_time: 1730739277800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 944c9eb9fa694fe2bd4d4bb075523b83
+run_name: stately-robin-995
+run_uuid: 944c9eb9fa694fe2bd4d4bb075523b83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730739023746
+status: 4
+tags: []
+user_id: amyhill

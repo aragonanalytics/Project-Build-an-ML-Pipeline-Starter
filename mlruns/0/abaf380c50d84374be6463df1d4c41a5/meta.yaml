@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/abaf380c50d84374be6463df1d4c41a5/artifacts
+end_time: 1730735909100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abaf380c50d84374be6463df1d4c41a5
+run_name: placid-shoat-310
+run_uuid: abaf380c50d84374be6463df1d4c41a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730735663593
+status: 4
+tags: []
+user_id: amyhill

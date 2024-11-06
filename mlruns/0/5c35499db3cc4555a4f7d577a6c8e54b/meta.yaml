@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/5c35499db3cc4555a4f7d577a6c8e54b/artifacts
+end_time: 1730738401148
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c35499db3cc4555a4f7d577a6c8e54b
+run_name: thoughtful-trout-205
+run_uuid: 5c35499db3cc4555a4f7d577a6c8e54b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730738353525
+status: 4
+tags: []
+user_id: amyhill

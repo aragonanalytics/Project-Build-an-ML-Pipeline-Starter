@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/e83efa4c273549a7832bb07c21bb69c8/artifacts
+end_time: 1730738820196
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e83efa4c273549a7832bb07c21bb69c8
+run_name: crawling-lynx-391
+run_uuid: e83efa4c273549a7832bb07c21bb69c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730738803278
+status: 4
+tags: []
+user_id: amyhill

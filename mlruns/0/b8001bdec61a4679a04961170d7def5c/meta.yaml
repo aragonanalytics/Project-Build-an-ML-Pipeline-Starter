@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/b8001bdec61a4679a04961170d7def5c/artifacts
+end_time: 1730733957155
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8001bdec61a4679a04961170d7def5c
+run_name: charming-swan-351
+run_uuid: b8001bdec61a4679a04961170d7def5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730733792420
+status: 4
+tags: []
+user_id: amyhill

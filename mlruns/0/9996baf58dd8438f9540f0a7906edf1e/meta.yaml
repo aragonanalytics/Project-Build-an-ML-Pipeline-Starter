@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/9996baf58dd8438f9540f0a7906edf1e/artifacts
+end_time: 1730852357377
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9996baf58dd8438f9540f0a7906edf1e
+run_name: wise-pug-559
+run_uuid: 9996baf58dd8438f9540f0a7906edf1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730852354351
+status: 4
+tags: []
+user_id: amyhill

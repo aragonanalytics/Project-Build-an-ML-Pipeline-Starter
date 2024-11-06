@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/647c8b616e494bf2b4f97b8e797be182/artifacts
+end_time: 1730738353367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 647c8b616e494bf2b4f97b8e797be182
+run_name: bedecked-tern-69
+run_uuid: 647c8b616e494bf2b4f97b8e797be182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730738280464
+status: 4
+tags: []
+user_id: amyhill

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/8151a31d853c4ddc836065a6895c9fe1/artifacts
+end_time: 1730740040717
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8151a31d853c4ddc836065a6895c9fe1
+run_name: polite-grub-428
+run_uuid: 8151a31d853c4ddc836065a6895c9fe1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730739963445
+status: 4
+tags: []
+user_id: amyhill

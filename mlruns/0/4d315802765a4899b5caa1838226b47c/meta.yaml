@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/4d315802765a4899b5caa1838226b47c/artifacts
+end_time: 1730738834050
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d315802765a4899b5caa1838226b47c
+run_name: vaunted-auk-404
+run_uuid: 4d315802765a4899b5caa1838226b47c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730738820349
+status: 4
+tags: []
+user_id: amyhill

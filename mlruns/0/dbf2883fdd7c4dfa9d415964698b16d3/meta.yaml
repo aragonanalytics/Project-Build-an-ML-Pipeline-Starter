@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/dbf2883fdd7c4dfa9d415964698b16d3/artifacts
+end_time: 1730846279477
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbf2883fdd7c4dfa9d415964698b16d3
+run_name: mercurial-mare-359
+run_uuid: dbf2883fdd7c4dfa9d415964698b16d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730846234467
+status: 4
+tags: []
+user_id: amyhill

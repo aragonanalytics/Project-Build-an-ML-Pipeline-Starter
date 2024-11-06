@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/28ac8f6b6a7d494dafb34d22f7ef078f/artifacts
+end_time: 1730736346848
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28ac8f6b6a7d494dafb34d22f7ef078f
+run_name: treasured-vole-889
+run_uuid: 28ac8f6b6a7d494dafb34d22f7ef078f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730736272839
+status: 4
+tags: []
+user_id: amyhill

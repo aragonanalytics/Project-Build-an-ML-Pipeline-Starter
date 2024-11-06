@@ -1,0 +1,17 @@
+[34m[1mwandb[39m[22m: [32m[41mERROR[39m[49m Attempted to change value of key "n_estimators" from None to 200
+[34m[1mwandb[39m[22m: [32m[41mERROR[39m[49m If you really want to do this, pass allow_val_change=True to config.update()
+Traceback (most recent call last):
+  File "/Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/src/train_random_forest/run.py", line 302, in <module>
+    go(args)
+  File "/Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/src/train_random_forest/run.py", line 50, in go
+    run.config.update(rf_config)
+  File "/Users/amyaragon/opt/anaconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/wandb/sdk/wandb_config.py", line 184, in update
+    sanitized = self._update(d, allow_val_change)
+  File "/Users/amyaragon/opt/anaconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/wandb/sdk/wandb_config.py", line 177, in _update
+    sanitized = self._sanitize_dict(
+  File "/Users/amyaragon/opt/anaconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/wandb/sdk/wandb_config.py", line 237, in _sanitize_dict
+    k, v = self._sanitize(k, v, allow_val_change)
+  File "/Users/amyaragon/opt/anaconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/wandb/sdk/wandb_config.py", line 258, in _sanitize
+    raise config_util.ConfigError(
+wandb.sdk.lib.config_util.ConfigError: Attempted to change value of key "n_estimators" from None to 200
+If you really want to do this, pass allow_val_change=True to config.update()

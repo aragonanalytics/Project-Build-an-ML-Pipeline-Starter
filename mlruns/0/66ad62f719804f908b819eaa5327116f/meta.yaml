@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/66ad62f719804f908b819eaa5327116f/artifacts
+end_time: 1730737882001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66ad62f719804f908b819eaa5327116f
+run_name: amusing-wasp-371
+run_uuid: 66ad62f719804f908b819eaa5327116f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730737839237
+status: 4
+tags: []
+user_id: amyhill

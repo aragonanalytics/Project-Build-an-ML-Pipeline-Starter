@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/e8ea6e00d0c644d0aff973971a3f6a56/artifacts
+end_time: 1730734512709
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8ea6e00d0c644d0aff973971a3f6a56
+run_name: shivering-gull-454
+run_uuid: e8ea6e00d0c644d0aff973971a3f6a56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730734438685
+status: 4
+tags: []
+user_id: amyhill

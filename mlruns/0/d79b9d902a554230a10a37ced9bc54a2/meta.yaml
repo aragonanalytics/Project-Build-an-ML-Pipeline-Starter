@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/d79b9d902a554230a10a37ced9bc54a2/artifacts
+end_time: 1730737882172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d79b9d902a554230a10a37ced9bc54a2
+run_name: abrasive-donkey-235
+run_uuid: d79b9d902a554230a10a37ced9bc54a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730737834009
+status: 4
+tags: []
+user_id: amyhill

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/636c21e6b6a44efa812d8071110f1114/artifacts
+end_time: 1730733966614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 636c21e6b6a44efa812d8071110f1114
+run_name: skillful-rat-371
+run_uuid: 636c21e6b6a44efa812d8071110f1114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730733775633
+status: 4
+tags: []
+user_id: amyhill

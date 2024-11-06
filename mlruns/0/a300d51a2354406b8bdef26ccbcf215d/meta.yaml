@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/a300d51a2354406b8bdef26ccbcf215d/artifacts
+end_time: 1730740040988
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a300d51a2354406b8bdef26ccbcf215d
+run_name: angry-dog-982
+run_uuid: a300d51a2354406b8bdef26ccbcf215d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730739794615
+status: 4
+tags: []
+user_id: amyhill

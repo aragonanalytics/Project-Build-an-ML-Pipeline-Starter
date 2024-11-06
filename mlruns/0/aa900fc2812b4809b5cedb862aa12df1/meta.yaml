@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/aa900fc2812b4809b5cedb862aa12df1/artifacts
+end_time: 1730733966238
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa900fc2812b4809b5cedb862aa12df1
+run_name: dazzling-fox-74
+run_uuid: aa900fc2812b4809b5cedb862aa12df1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730733963426
+status: 4
+tags: []
+user_id: amyhill
