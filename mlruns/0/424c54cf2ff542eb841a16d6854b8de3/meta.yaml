@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/424c54cf2ff542eb841a16d6854b8de3/artifacts
+end_time: 1731036032003
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 424c54cf2ff542eb841a16d6854b8de3
+run_name: capable-hound-169
+run_uuid: 424c54cf2ff542eb841a16d6854b8de3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731036008132
+status: 3
+tags: []
+user_id: amyhill

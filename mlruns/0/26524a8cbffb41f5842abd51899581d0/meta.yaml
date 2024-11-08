@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/26524a8cbffb41f5842abd51899581d0/artifacts
+end_time: 1731036112795
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26524a8cbffb41f5842abd51899581d0
+run_name: puzzled-frog-906
+run_uuid: 26524a8cbffb41f5842abd51899581d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731036044989
+status: 3
+tags: []
+user_id: amyhill

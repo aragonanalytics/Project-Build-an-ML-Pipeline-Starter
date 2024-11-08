@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/c9ed713509be446ea47ed10fb8831a40/artifacts
+end_time: 1731036008038
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9ed713509be446ea47ed10fb8831a40
+run_name: brawny-slug-321
+run_uuid: c9ed713509be446ea47ed10fb8831a40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731035987348
+status: 3
+tags: []
+user_id: amyhill

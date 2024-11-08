@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/0975fc2cd9e44ea1951c2941c15df3ff/artifacts
+end_time: 1731036044910
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0975fc2cd9e44ea1951c2941c15df3ff
+run_name: bald-croc-99
+run_uuid: 0975fc2cd9e44ea1951c2941c15df3ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731036032082
+status: 3
+tags: []
+user_id: amyhill
