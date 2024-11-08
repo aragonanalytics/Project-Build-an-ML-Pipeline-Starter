@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/5fb441772d7b4c03b9996d04cc7c91cf/artifacts
+end_time: 1730853273076
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5fb441772d7b4c03b9996d04cc7c91cf
+run_name: marvelous-shoat-546
+run_uuid: 5fb441772d7b4c03b9996d04cc7c91cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730853260219
+status: 4
+tags: []
+user_id: amyhill
