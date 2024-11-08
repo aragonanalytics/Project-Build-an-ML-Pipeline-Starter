@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/501df74a91fd415a90c565dd7d81e832/artifacts
+end_time: 1731035743349
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 501df74a91fd415a90c565dd7d81e832
+run_name: hilarious-horse-915
+run_uuid: 501df74a91fd415a90c565dd7d81e832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731035367692
+status: 4
+tags: []
+user_id: amyhill

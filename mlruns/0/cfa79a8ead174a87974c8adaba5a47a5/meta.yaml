@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/cfa79a8ead174a87974c8adaba5a47a5/artifacts
+end_time: 1731035018764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfa79a8ead174a87974c8adaba5a47a5
+run_name: thoughtful-chimp-690
+run_uuid: cfa79a8ead174a87974c8adaba5a47a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731034981514
+status: 4
+tags: []
+user_id: amyhill

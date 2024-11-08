@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/0e6800125cd14093926c2fcc1cedd86b/artifacts
+end_time: 1731035635029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e6800125cd14093926c2fcc1cedd86b
+run_name: legendary-gull-402
+run_uuid: 0e6800125cd14093926c2fcc1cedd86b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731035377986
+status: 3
+tags: []
+user_id: amyhill

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/efb40c2b96044d2e8aecaa83e94f7f7b/artifacts
+end_time: 1731035742992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efb40c2b96044d2e8aecaa83e94f7f7b
+run_name: selective-turtle-5
+run_uuid: efb40c2b96044d2e8aecaa83e94f7f7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731035700074
+status: 4
+tags: []
+user_id: amyhill

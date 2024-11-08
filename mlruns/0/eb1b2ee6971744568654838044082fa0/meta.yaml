@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amyaragon/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/eb1b2ee6971744568654838044082fa0/artifacts
+end_time: 1731035699989
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb1b2ee6971744568654838044082fa0
+run_name: omniscient-bee-181
+run_uuid: eb1b2ee6971744568654838044082fa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731035635118
+status: 3
+tags: []
+user_id: amyhill
